@@ -1,5 +1,14 @@
 const allowedOrigins = [
-    'https://admin-panel-758j.onrender.com'
+    'https://admin-panel-758j.onrender.com',
+    'https://admin-panel-758j.onrender.com/dash/users',
+    'https://admin-panel-758j.onrender.com/dash',
+    'https://admin-panel-758j.onrender.com/',
+    '44.226.145.213',
+    '54.187.200.255',
+    '34.213.214.55',
+    '35.164.95.156',
+    '44.230.95.183',
+    '44.229.200.200',
 ]
 
 module.exports = allowedOrigins
